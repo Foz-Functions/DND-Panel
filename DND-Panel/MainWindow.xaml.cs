@@ -20,9 +20,11 @@ namespace DND_Panel
     /// </summary>
     public partial class MainWindow : Window
     {
+        public const string VersionNum = "0.0.1";
         public MainWindow()
         {
             InitializeComponent();
+            this.Title = $"DND Panel | V{VersionNum}";
         }
     }
 }
