@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DND_Panel"
         mc:Ignorable="d"
-        Title="DND Panel | Loading" Height="450" Width="800">
+        Title="DND Panel | Loading" Height="840" Width="1260">
     <Grid>
-
+        <TextBlock x:Name="consoleOutput" Text="{Binding UpdateSourceTrigger=PropertyChanged}"/>
     </Grid>
 </Window>

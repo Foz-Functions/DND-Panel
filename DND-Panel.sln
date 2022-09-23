@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DND-Panel", "DND-Panel\DND-Panel.csproj", "{1A4B1CD5-539D-4FC5-8E07-DF5E52768D6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DND-Panel", "DND-Panel\DND-Panel.csproj", "{1A4B1CD5-539D-4FC5-8E07-DF5E52768D6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
